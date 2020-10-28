@@ -1,0 +1,15 @@
+<resources>
+    <string name="appupdater_update_available">Na voljo nova posodobitev!</string>
+    <string name="appupdater_update_available_description_dialog">Posodobitev %1$s je na voljo za prenos. S prenosom najnovejše posodobitve boste prejeli najnovejše funkcije, izboljšave in popravke napak za %2$s.</string>
+    <string name="appupdater_update_available_description_dialog_before_release_notes">Posodobitev %1$s je na voljo za prenos.\n\nPridobite lahko nove funkcionalnosti:\n%2$s</string>
+    <string name="appupdater_update_available_description_snackbar">Na volje je nova posodobitev %1$s!</string>
+    <string name="appupdater_update_available_description_notification">Posodobitev %1$s %2$s je na voljo za prenos</string>
+    <string name="appupdater_update_not_available">Na voljo ni novih posodobitev</string>
+    <string name="appupdater_update_not_available_description">Na voljo imate najnovejšo različico %s!</string>
+    <string name="appupdater_btn_update">Posodobi</string>
+    <string name="appupdater_btn_disable">Ne prikaži več</string>
+    <string name="appupdater_btn_dismiss">Zapri</string>
+    <string name="appupdater_channel_name">Obvestila o posodobitvah</string>
+
+    <string name="appupdater_channel" translatable="false">appupdater_channel_01</string>
+</resources>
